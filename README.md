@@ -1,6 +1,8 @@
 # meinequality
 ME Inequality (Marginal Effects Inequality) Use meinequality With STATA 18
 
+https://www.youtube.com/watch?v=NLax22Wogjg
+
 Inequality summary effects of nominal and ordinal independent variables Use meinequality With STATA 18
 
 Olah Data Semarang
